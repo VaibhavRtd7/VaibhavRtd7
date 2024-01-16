@@ -1,5 +1,3 @@
-![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.bhmpics.com/downloads/mern-stack-Wallpapers/8.mern-stack.png)](https://www.bhmpics.com/downloads/mern-stack-Wallpapers/8.mern-stack.png)](https://img.freepik.com/premium-vector/young-men-working-laptop-home-concept-web-development-programmer-coding-website_530733-3076.jpg?w=740))
-
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
