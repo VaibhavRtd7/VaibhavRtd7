@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋, I'm Vaibhav Rathod</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavrtd7&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavrtd7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavrtd7" alt="vaibhavrtd7" /></a> </p>
 
-- 🌱 I’m currently learning **flutter and MERN Stack.**
-
-- 📫 How to reach me **vaibhavrathod1902@gmail.com**
+- 🌱 I’m currently learning ** Block Chain and AI.**
+- Skills -  c/c++ | Java | Python | Javascript | Nodejs | Expressjs | React | Mongodb | MySql | Nextjs
+- 📫 How to reach me **vaibhavrathod380@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
